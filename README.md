@@ -4,6 +4,8 @@
     <img src=".readme/demo.png" width="720px" alt=""/>
 </p>
 
+## Please refer to latest updates in [kitti_lidar_camera](https://github.com/LidarPerception/kitti_lidar_camera)
+
 ## TODO list
 - [x] Project Point Cloud into RGB Image, in topic **/kitti/img_depth** _(sensor_msgs/Image)_.
 - [x] Color Point Cloud with RGB from Image, in topic **/kitti/points_rgb** _(sensor_msgs/PointCloud2)_.
